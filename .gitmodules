@@ -1,0 +1,3 @@
+[submodule "pos_tagging_with_rnn"]
+	path = pos_tagging_with_rnn
+	url = https://github.com/apundhir/pos_tagging_with_rnn.git
